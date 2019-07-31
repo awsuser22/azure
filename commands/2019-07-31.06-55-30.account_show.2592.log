@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 2592 | 2019-07-31 06:55:30,864 | INFO | az_command_data_logger | command args: account show --output={}
+CMD-LOG-LINE-BEGIN 2592 | 2019-07-31 06:55:30,876 | INFO | az_command_data_logger | exit code: 0

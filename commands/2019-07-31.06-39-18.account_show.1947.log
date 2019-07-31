@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 1947 | 2019-07-31 06:39:18,697 | INFO | az_command_data_logger | command args: account show --output={}
+CMD-LOG-LINE-BEGIN 1947 | 2019-07-31 06:39:18,711 | INFO | az_command_data_logger | exit code: 0

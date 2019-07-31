@@ -1,0 +1,1 @@
+﻿{"subscriptions": [{"id": "e0fae348-f6c2-45f5-87b7-c41c22782d8f", "name": "user06Subscription", "state": "Enabled", "user": {"name": "user18@2miles.onmicrosoft.com", "type": "user", "cloudShellID": true}, "isDefault": true, "tenantId": "96e3cac9-1ab3-436b-9f79-2a0a4b687f1b", "environmentName": "AzureCloud"}], "installationId": "e9bee552-b335-11e9-a23e-0a580af43815"}

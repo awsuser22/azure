@@ -1,0 +1,93 @@
+135 : 2019-07-31 01:52:55,063 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+135 : 2019-07-31 01:52:55,063 : INFO : telemetry.check : Positive: The /home/user18/.azure/telemetry.txt does not exist.
+135 : 2019-07-31 01:52:55,064 : DEBUG : telemetry.note : acquiring lock
+135 : 2019-07-31 01:52:55,064 : DEBUG : telemetry.note : acquired lock
+135 : 2019-07-31 01:52:55,064 : INFO : telemetry.note : Update the note mtime to 2019-07-31 01:52:55.064346
+135 : 2019-07-31 01:52:55,064 : WARNING : telemetry.note : Fail to parse or read the timestamp 'N/A' in the note file. Set the last send time to minimal. Reason: not readable
+135 : 2019-07-31 01:52:55,064 : INFO : telemetry.records : No cache to be uploaded.
+135 : 2019-07-31 01:52:55,064 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+135 : 2019-07-31 01:52:55,065 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+135 : 2019-07-31 01:52:55,065 : INFO : telemetry.note : Update the note mtime to 2019-07-31 01:52:55.065112
+134 : 2019-07-31 04:45:56,674 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+134 : 2019-07-31 04:45:56,677 : INFO : telemetry.check : Returns Positive.
+134 : 2019-07-31 04:45:56,678 : DEBUG : telemetry.note : acquiring lock
+134 : 2019-07-31 04:45:56,678 : DEBUG : telemetry.note : acquired lock
+134 : 2019-07-31 04:45:56,678 : INFO : telemetry.note : Update the note mtime to 2019-07-31 04:45:56.678369
+134 : 2019-07-31 04:45:56,764 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+134 : 2019-07-31 04:45:56,765 : INFO : telemetry.records : No cache to be uploaded.
+134 : 2019-07-31 04:45:56,765 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+134 : 2019-07-31 04:45:56,765 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+134 : 2019-07-31 04:45:56,765 : INFO : telemetry.note : Update the note mtime to 2019-07-31 04:45:56.765513
+389 : 2019-07-31 04:59:18,990 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+389 : 2019-07-31 04:59:18,990 : INFO : telemetry.check : Returns Positive.
+389 : 2019-07-31 04:59:18,990 : DEBUG : telemetry.note : acquiring lock
+389 : 2019-07-31 04:59:18,990 : DEBUG : telemetry.note : acquired lock
+389 : 2019-07-31 04:59:18,991 : INFO : telemetry.note : Update the note mtime to 2019-07-31 04:59:18.991059
+389 : 2019-07-31 04:59:18,994 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+389 : 2019-07-31 04:59:18,994 : INFO : telemetry.records : No cache to be uploaded.
+389 : 2019-07-31 04:59:18,994 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+389 : 2019-07-31 04:59:18,994 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+389 : 2019-07-31 04:59:18,995 : INFO : telemetry.note : Update the note mtime to 2019-07-31 04:59:18.994991
+562 : 2019-07-31 05:27:18,226 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+562 : 2019-07-31 05:27:18,226 : INFO : telemetry.check : Returns Positive.
+562 : 2019-07-31 05:27:18,226 : DEBUG : telemetry.note : acquiring lock
+562 : 2019-07-31 05:27:18,227 : DEBUG : telemetry.note : acquired lock
+562 : 2019-07-31 05:27:18,227 : INFO : telemetry.note : Update the note mtime to 2019-07-31 05:27:18.227194
+562 : 2019-07-31 05:27:18,231 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+562 : 2019-07-31 05:27:18,241 : INFO : telemetry.records : No cache to be uploaded.
+562 : 2019-07-31 05:27:18,242 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+562 : 2019-07-31 05:27:18,242 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+562 : 2019-07-31 05:27:18,242 : INFO : telemetry.note : Update the note mtime to 2019-07-31 05:27:18.242418
+644 : 2019-07-31 05:46:33,685 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+644 : 2019-07-31 05:46:33,685 : INFO : telemetry.check : Returns Positive.
+644 : 2019-07-31 05:46:33,686 : DEBUG : telemetry.note : acquiring lock
+644 : 2019-07-31 05:46:33,686 : DEBUG : telemetry.note : acquired lock
+644 : 2019-07-31 05:46:33,686 : INFO : telemetry.note : Update the note mtime to 2019-07-31 05:46:33.686309
+644 : 2019-07-31 05:46:33,688 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+644 : 2019-07-31 05:46:33,689 : INFO : telemetry.records : No cache to be uploaded.
+644 : 2019-07-31 05:46:33,689 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+644 : 2019-07-31 05:46:33,689 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+644 : 2019-07-31 05:46:33,689 : INFO : telemetry.note : Update the note mtime to 2019-07-31 05:46:33.689624
+1027 : 2019-07-31 06:14:01,244 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+1027 : 2019-07-31 06:14:01,244 : INFO : telemetry.check : Returns Positive.
+1027 : 2019-07-31 06:14:01,244 : DEBUG : telemetry.note : acquiring lock
+1027 : 2019-07-31 06:14:01,245 : DEBUG : telemetry.note : acquired lock
+1027 : 2019-07-31 06:14:01,245 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:14:01.245194
+1027 : 2019-07-31 06:14:01,248 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+1027 : 2019-07-31 06:14:01,248 : INFO : telemetry.records : No cache to be uploaded.
+1027 : 2019-07-31 06:14:01,249 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+1027 : 2019-07-31 06:14:01,249 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+1027 : 2019-07-31 06:14:01,249 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:14:01.249403
+1510 : 2019-07-31 06:30:15,857 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+1510 : 2019-07-31 06:30:15,857 : INFO : telemetry.check : Returns Positive.
+1510 : 2019-07-31 06:30:15,857 : DEBUG : telemetry.note : acquiring lock
+1510 : 2019-07-31 06:30:15,857 : DEBUG : telemetry.note : acquired lock
+1510 : 2019-07-31 06:30:15,858 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:30:15.858031
+1510 : 2019-07-31 06:30:15,860 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+1510 : 2019-07-31 06:30:15,860 : INFO : telemetry.records : No cache to be uploaded.
+1510 : 2019-07-31 06:30:15,861 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+1510 : 2019-07-31 06:30:15,861 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+1510 : 2019-07-31 06:30:15,861 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:30:15.861400
+1987 : 2019-07-31 06:41:11,988 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+1987 : 2019-07-31 06:41:11,989 : INFO : telemetry.check : Returns Positive.
+1987 : 2019-07-31 06:41:11,989 : DEBUG : telemetry.note : acquiring lock
+1987 : 2019-07-31 06:41:11,989 : DEBUG : telemetry.note : acquired lock
+1987 : 2019-07-31 06:41:11,989 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:41:11.989777
+1987 : 2019-07-31 06:41:11,993 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+1987 : 2019-07-31 06:41:11,993 : INFO : telemetry.records : No cache to be uploaded.
+1987 : 2019-07-31 06:41:11,993 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+1987 : 2019-07-31 06:41:11,994 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+1987 : 2019-07-31 06:41:11,994 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:41:11.994430
+2588 : 2019-07-31 06:55:30,288 : INFO : telemetry.main : Attempt start. Configuration directory [/home/user18/.azure].
+2588 : 2019-07-31 06:55:30,288 : INFO : telemetry.check : Returns Positive.
+2588 : 2019-07-31 06:55:30,288 : DEBUG : telemetry.note : acquiring lock
+2588 : 2019-07-31 06:55:30,289 : DEBUG : telemetry.note : acquired lock
+2588 : 2019-07-31 06:55:30,289 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:55:30.289134
+2588 : 2019-07-31 06:55:30,292 : WARNING : telemetry.note : Fail to parse or read the timestamp '1-01-01T00:00:00' in the note file. Set the last send time to minimal. Reason: time data '1-01-01T00:00:00' does not match format '%Y-%m-%dT%H:%M:%S'
+2588 : 2019-07-31 06:55:30,292 : INFO : telemetry.records : 1 cache files to move.
+2588 : 2019-07-31 06:55:30,292 : INFO : telemetry.records : Create temp folder /tmp/tmpcf07_kx6
+2588 : 2019-07-31 06:55:30,293 : WARNING : telemetry.records : Fail to move file from /home/user18/.azure/telemetry/cache.1 to /tmp/tmpcf07_kx6/cache.1. Reason: [Errno 18] Invalid cross-device link: '/home/user18/.azure/telemetry/cache.1' -> '/tmp/tmpcf07_kx6/cache.1'.
+2588 : 2019-07-31 06:55:30,293 : INFO : telemetry.records : Remove directory /tmp/tmpcf07_kx6
+2588 : 2019-07-31 06:55:30,293 : INFO : telemetry.client : Accumulated 0 events. Flush the clients.
+2588 : 2019-07-31 06:55:30,293 : INFO : telemetry.note : Update the last send in note to 0001-01-01 00:00:00
+2588 : 2019-07-31 06:55:30,294 : INFO : telemetry.note : Update the note mtime to 2019-07-31 06:55:30.294070
