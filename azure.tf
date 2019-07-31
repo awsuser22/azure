@@ -186,7 +186,7 @@ resource "azurerm_lb_rule" "lbnatrule" {
 }
 
 resource "azurerm_virtual_machine_scale_set" "vmssvset" {
-    name = "vmssscalesetuser15"
+    name = "vmssscalesetuser18"
     location            = "${var.location}"
     resource_group_name = "${azurerm_resource_group.user18group.name}"
     upgrade_policy_mode = "Manual"
